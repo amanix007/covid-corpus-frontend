@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "Virus: natural history, transmission and diagnostics",
+        "status": "A"
+    },
+    {
+        "id": "2",
+        "name": "Animal and environmental research on the virus origin, and management measures at the human-animal interface",
+        "status": "A"
+    },
+    {
+        "id": "3",
+        "name": "Epidemiological studies",
+        "status": "A"
+    },
+    {
+        "id": "4",
+        "name": "Clinical characterization and management",
+        "status": "A"
+    },
+    {
+        "id": "5",
+        "name": "Infection prevention and control, including health care workers’ protection",
+        "status": "A"
+    },
+    {
+        "id": "6",
+        "name": "Candidate therapeutics R&D",
+        "status": "A"
+    },
+    {
+        "id": "7",
+        "name": "Candidate vaccines R&D",
+        "status": "A"
+    },
+    {
+        "id": "8",
+        "name": "Ethics considerations for research",
+        "status": "A"
+    },
+    {
+        "id": "9",
+        "name": "Social sciences in the outbreak response",
+        "status": "A"
+    }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Damir",
+    "email": "damir@gmail.com",
+    "profilePhoto": null,
+    "status": "A",
+    "isAdmin": true,
+    "isEditor": false
+  },
+  {
+    "id": "2",
+    "name": "Josip",
+    "email": "josip@gmail.com",
+    "profilePhoto": null,
+    "status": "I",
+    "isAdmin": false,
+    "isEditor": true
+  },
+  {
+    "id": "3",
+    "name": "Darko",
+    "email": "darko@gmail.com",
+    "profilePhoto": null,
+    "status": "A",
+    "isAdmin": false,
+    "isEditor": false 
+  }
+]

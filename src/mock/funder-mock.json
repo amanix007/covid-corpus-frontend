@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Funder 1",
+        "status": "A"
+    },
+    {
+        "id": "2",
+        "name": "Funder 2",
+        "status": "I"
+    },
+    {
+        "id": "3",
+        "name": "Funder 3",
+        "status": "A"
+    }
+]

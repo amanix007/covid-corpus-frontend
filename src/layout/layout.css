@@ -1,0 +1,9 @@
+.googleLogin i {
+  color: #dd4b39;
+  cursor: pointer;
+  font-size: 1.6rem;
+}
+
+.googleLogin i:hover {
+  color: #CE4435;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "WHO Research Roadmap",
+        "label": "A",
+        "link": "https://www.who.int/blueprint/priority-diseases/key-action/Coronavirus_Roadmap_V9.pdf?ua=1",
+        "description": "Some description for the resource",
+        "status": "A"
+    },
+    {
+        "id": "2",
+        "title": "WHO Overivew of Vaccines Landscape",
+        "label": "A",
+        "link": "https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_Mar26.PDF?ua=1",
+        "description": "Some description for the resource",
+        "status": "I"
+    },
+    {
+        "id": "3",
+        "title": "WHO International Clinical Trials Registry Platform (ICTRP) ",
+        "label": "A",
+        "link": "https://www.who.int/ictrp/en/",
+        "description": "Some description for the resource",
+        "status": "A"
+    }
+]

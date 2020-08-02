@@ -1,0 +1,14 @@
+{
+    "name": {
+        "title": "Name",
+        "body": "Name body"
+    },
+    "surname": {
+        "title": "Surame",
+        "body": "Surame body"
+    },
+    "amountAwardedBaseCurrency": {
+        "title": "Calculated Amount Description",
+        "body": "The data on site <a href='https://api.exchangeratesapi.io' target='_blank'>https://api.exchangeratesapi.io</a> is used for the exchange calculations."
+    }
+}

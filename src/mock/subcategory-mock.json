@@ -1,0 +1,23 @@
+[
+  {
+      "id": "1",
+      "name": "Subcategory A",
+      "categoryId": 1,
+      "categoryName": "Virus: natural history, transmission and diagnostics",
+      "status": "I"
+  },
+  {
+      "id": "2",
+      "name": "Subcategory B",
+      "categoryId": 1,
+      "categoryName": "Virus: natural history, transmission and diagnostics",
+      "status": "A"
+  },
+  {
+      "id": "3",
+      "name": "Subcategory C",
+      "categoryId": 1,
+      "categoryName": "Virus: natural history, transmission and diagnostics",
+      "status": "A"
+  }
+]

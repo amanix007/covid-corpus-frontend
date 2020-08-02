@@ -1,0 +1,229 @@
+[
+    {
+        "id": "1",
+        "title": "Project Research Activity A",
+        "ccid": "A001",
+        "funded": true,
+        "funders": [
+            { "id": "1", "name": "Funder Mato" },
+            { "id": "2", "name": "Funder Geto" }
+        ],
+        "funderProjectId": "Project 007",
+        "amountAwarded": 1000,
+        "amountAwardedCurrency": "HRK",
+        "amountAwardedCalculated": 118.024,
+        "primaryWhoResearchPriority": [
+            {
+                "categoryId": "1",
+                "categoryName": "Virus: natural history, transmission and diagnostics",
+                "subcategoryId": "1",
+                "subcategoryName": "Subcategory C"
+            },
+            {
+                "categoryId": "2",
+                "categoryName": "Infection prevention and control, including health care workers’ protection",
+                "subcategoryId": "2",
+                "subcategoryName": "Subcategory A"
+            }
+        ],
+        "secondaryWhoResearchPriority": [
+            {
+                "categoryId": "1",
+                "categoryName": "Virus: natural history, transmission and diagnostics",
+                "subcategoryId": "1",
+                "subcategoryName": "Subcategory C"
+            },
+            {
+                "categoryId": "2",
+                "categoryName": "Infection prevention and control, including health care workers’ protection",
+                "subcategoryId": "2",
+                "subcategoryName": "Subcategory A"
+            }
+        ],
+        "researchProjectTypeId": "1",
+        "researchProjectTypeName": "Biomedial Research",
+        "researchProjectData": {
+            "biomedialResearchActivities": [
+                {
+                    "categoryId": "1",
+                    "categoryName": "Virus: natural history, transmission and diagnostics",
+                    "subcategoryId": "1",
+                    "subcategoryName": "Subcategory C"
+                },
+                {
+                    "categoryId": "2",
+                    "categoryName": "Infection prevention and control, including health care workers’ protection",
+                    "subcategoryId": "2",
+                    "subcategoryName": "Subcategory A"
+                }
+            ],
+            "researchTopic": [
+                "Topic 1",
+                "Topic B",
+                "Topic other"
+            ],
+            "researchQuestion": [
+                "Question 1",
+                "Question B",
+                "Question other"
+            ],
+            "studyDesign": [
+                "studyDesign 1",
+                "studyDesign B",
+                "studyDesign other"
+            ],
+            "population": "Population is a large text",
+            "intervention": "Intervention is a large text",
+            "comparator": "Comparator is a large text",
+            "outcome": "Outcome is a large text",
+            "summary": "Summary is a large text",
+            "tags": [
+                "Tag 1",
+                "Tag A",
+                "Tag Omega"
+            ],
+            "hyperlink": "http:somelink.com"
+        },
+        "countries": [
+            {
+                "id": "1",
+                "name": "Hrvatska"
+            },
+            {
+                "id": "2",
+                "name": "Austrija"
+            }
+        ],
+        "additionalLocationDetails": "This is additional location details",
+        "howWillDataBeAvailable": "howWillDataBeAvailable",
+        "startDate": "20200501",
+        "endDate": null,
+        "collaborators": [
+            "Damir",
+            "Josip",
+            "Darko"
+        ],
+        "localImplementingPartners": [
+            "Nešo",
+            "Tomo"
+        ],
+        "keyMilestones": "Nije 100% sigurno ali uskoro",
+        "leadInstituion": "Felix IT",
+        "principalInvestigator": "M&G",
+        "openToCollaborators": false
+    },
+
+    {
+        "id": "1",
+        "title": "Project Research Activity A",
+        "ccid": "A001",
+        "funded": true,
+        "funders": [
+            { "id": "1", "name": "Funder Mato" },
+            { "id": "2", "name": "Funder Geto" }
+        ],
+        "funderProjectId": "Project 007",
+        "amountAwarded": 1000,
+        "amountAwardedCurrency": "HRK",
+        "amountAwardedCalculated": 118.024,
+        "primaryWhoResearchPriority": [
+            {
+                "categoryId": "1",
+                "categoryName": "Virus: natural history, transmission and diagnostics",
+                "subcategoryId": "1",
+                "subcategoryName": "Subcategory C"
+            },
+            {
+                "categoryId": "2",
+                "categoryName": "Infection prevention and control, including health care workers’ protection",
+                "subcategoryId": "2",
+                "subcategoryName": "Subcategory A"
+            }
+        ],
+        "secondaryWhoResearchPriority": [
+            {
+                "categoryId": "1",
+                "categoryName": "Virus: natural history, transmission and diagnostics",
+                "subcategoryId": "1",
+                "subcategoryName": "Subcategory C"
+            },
+            {
+                "categoryId": "2",
+                "categoryName": "Infection prevention and control, including health care workers’ protection",
+                "subcategoryId": "2",
+                "subcategoryName": "Subcategory A"
+            }
+        ],
+        "researchProjectTypeId": "1",
+        "researchProjectTypeName": "Biomedial Research",
+        "researchProjectData": {
+            "biomedialResearchActivities": [
+                {
+                    "categoryId": "1",
+                    "categoryName": "Virus: natural history, transmission and diagnostics",
+                    "subcategoryId": "1",
+                    "subcategoryName": "Subcategory C"
+                },
+                {
+                    "categoryId": "2",
+                    "categoryName": "Infection prevention and control, including health care workers’ protection",
+                    "subcategoryId": "2",
+                    "subcategoryName": "Subcategory A"
+                }
+            ],
+            "researchTopic": [
+                "Topic 1",
+                "Topic B",
+                "Topic other"
+            ],
+            "researchQuestion": [
+                "Question 1",
+                "Question B",
+                "Question other"
+            ],
+            "studyDesign": [
+                "studyDesign 1",
+                "studyDesign B",
+                "studyDesign other"
+            ],
+            "population": "Population is a large text",
+            "intervention": "Intervention is a large text",
+            "comparator": "Comparator is a large text",
+            "outcome": "Outcome is a large text",
+            "summary": "Summary is a large text",
+            "tags": [
+                "Tag 1",
+                "Tag A",
+                "Tag Omega"
+            ],
+            "hyperlink": "http:somelink.com"
+        },
+        "countries": [
+            {
+                "id": "1",
+                "name": "Hrvatska"
+            },
+            {
+                "id": "2",
+                "name": "Austrija"
+            }
+        ],
+        "additionalLocationDetails": "This is additional location details",
+        "howWillDataBeAvailable": "howWillDataBeAvailable",
+        "startDate": "20200501",
+        "endDate": null,
+        "collaborators": [
+            "Damir",
+            "Josip",
+            "Darko"
+        ],
+        "localImplementingPartners": [
+            "Nešo",
+            "Tomo"
+        ],
+        "keyMilestones": "Nije 100% sigurno ali uskoro",
+        "leadInstituion": "Felix IT",
+        "principalInvestigator": "M&G",
+        "openToCollaborators": false
+    }
+]

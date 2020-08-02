@@ -1,0 +1,17 @@
+[
+  {
+      "id": "1",
+      "name": "Blog Category A",
+      "status": "I"
+  },
+  {
+      "id": "2",
+      "name": "Blog Category B",
+      "status": "A"
+  },
+  {
+      "id": "3",
+      "name": "Blog Category C",
+      "status": "A"
+  }
+]

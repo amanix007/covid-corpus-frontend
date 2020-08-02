@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Resource Label A",
+        "status": "A"
+    },
+    {
+        "id": "2",
+        "name": "Resource Label B",
+        "status": "A"
+    },
+    {
+        "id": "3",
+        "name": "Resource Label C",
+        "status": "I"
+    }
+]

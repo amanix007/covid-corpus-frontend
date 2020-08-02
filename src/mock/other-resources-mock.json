@@ -1,0 +1,18 @@
+[
+    {
+        "id": "",
+        "Title": "Activity 1",
+        "Status": "P",
+        "AuthorId": "guid",
+        "AuthorName": "Josip",
+        "DateCreated": "23.11.2019"
+    },
+    {
+        "id": "",
+        "Title": "Activity 2",
+        "Status": "A",
+        "AuthorId": "guid",
+        "AuthorName": "Damir",
+        "DateCreated": "11.05.2020"
+    }
+]
